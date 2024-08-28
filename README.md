@@ -19,11 +19,13 @@ Provides a step-by-step guide and code implementation.
     ```
 2. Navigate to the project directory:
    ```bash
-   cd NLP-Recommendation-System ```
+   cd NLP-Recommendation-System
+   ```
   
 3. Install the required dependencies:
    ```bash
-   pip install pandas rake-nltk numpy scikit-learn ```
+   pip install pandas rake-nltk numpy scikit-learn
+    ```
    
 # Usage
  1. Open the Jupyter notebook:
