@@ -15,11 +15,11 @@ Provides a step-by-step guide and code implementation.
 # Installation
  1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/NLP-Recommendation-System.git
+    git clone https://github.com/cizodevahm/Recommendation-System-On-IMDB.git
     ```
 2. Navigate to the project directory:
    ```bash
-   cd NLP-Recommendation-System
+   cd cizodevahm/Recommendation-System-On-IMDB
    ```
   
 3. Install the required dependencies:
